@@ -21,6 +21,6 @@
  require_once WPCB_PLUGIN_DIR . 'includes/class-loader.php';
 
  add_action('plugin_loaded', function(): void {
-    WPCP_Loader::init;
+    WPCB_Loader::init();
  });
 ?>
