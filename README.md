@@ -29,6 +29,7 @@ Plugin này được tổ chức theo cấu trúc rõ ràng, dễ bảo trì:
     │ ├── class-api-handler.php
     │ ├── class-database.php
     │ ├── class-shortcode.php
+    │ ├── class-exception-handler.php
     │ └── ajax/
     │ └── process-chat.php # AJAX xử lý dữ liệu chat từ frontend
     │
